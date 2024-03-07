@@ -1,4 +1,3 @@
-# Readme
 ```js
 import Desenvolvedor from "codebyella";
 
