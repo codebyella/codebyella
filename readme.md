@@ -11,6 +11,6 @@ class habilidades extends desenvolvedor {
   linguagens = ["html, css, javascript, kotlin e python"];
   bibliotecas = ["react.js"];
   frameworks = ["vue.js e node.js"];
-  ferramentas = [vscode]
+  ferramentas = ["vscode"]
 }
 ```
