@@ -1,16 +1,16 @@
 ```js
-import Desenvolvedor from "codebyella";
+import desenvolvedor from "duartella";
 
-class SobreMim extends Desenvolvedor {
-  nome = "Rafaella Duarte";
-  cursando = "Engenharia de Software";
-  estudando = "Desenvolvimento Web";
+class sobremim extends desenvolvedor {
+  nome = "rafaella duarte";
+  cursando = "engenharia de software";
+  estudando = "desenvolvimento Web";
 }
 
-class Skills extends Desenvolvedor {
-  linguagens = ["HTML, CSS, Javascript, Typescript e Python"];
-  bibliotecas = ["React.js"];
-  frameworks = ["Vue.js e Node.js"];
-  ferramentas = [VsCode]
+class habilidades extends desenvolvedor {
+  linguagens = ["html, css, javascript, kotlin e python"];
+  bibliotecas = ["react.js"];
+  frameworks = ["vue.js e node.js"];
+  ferramentas = [vscode]
 }
 ```
