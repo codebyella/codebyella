@@ -4,7 +4,7 @@ import desenvolvedor from "duartella";
 class sobremim extends desenvolvedor {
   nome = "rafaella duarte";
   cursando = "engenharia de software";
-  estudando = "desenvolvimento Web";
+  estudando = "desenvolvimento web";
 }
 
 class habilidades extends desenvolvedor {
