@@ -4,13 +4,13 @@ import Desenvolvedor from "codebyella";
 class SobreMim extends Desenvolvedor {
   Nome = "Rafaella Duarte";
   Cursando = "Engenharia de Software";
-  Estudando = "Desenvolvimento Web";
+  Estudando = "Desenvolvimento Android Nativo";
 }
 
 class Habilidades extends Desenvolvedor {
-  Linguagens = ["HTML5, CSS3, JavaScript, Python"];
-  Bibliotecas = ["React.js"];
-  Frameworks = ["Vue.js e Node.js"];
-  Ferramentas = ["VsCode"]
+  Linguagens = ["Kotlin"];
+  Bibliotecas = [" "];
+  Frameworks = [" "];
+  Ferramentas = ["Android Studio"]
 }
 ```
