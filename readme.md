@@ -9,8 +9,8 @@ class SobreMim : Desenvolvedor() {
 
 class Habilidades : Desenvolvedor() {
   var Linguagens = listOf("Kotlin")
-  var Bibliotecas = listOf<String>()
-  var Frameworks = listOf<String>()
+  var Bibliotecas = listOf("")
+  var Frameworks = listOf("")
   var Ferramentas = listOf("Android Studio", "Firebase")
 }
 ```
