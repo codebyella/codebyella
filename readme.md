@@ -10,7 +10,7 @@ class SobreMim : Desenvolvedor() {
 class Habilidades : Desenvolvedor() {
   var Linguagens = listOf("Kotlin")
   var Bibliotecas = listOf("Jetpack Compose")
-  var Frameworks = listOf("")
+  var Frameworks = listOf("Gradle")
   var Ferramentas = listOf("Android Studio", "Firebase")
 }
 ```
