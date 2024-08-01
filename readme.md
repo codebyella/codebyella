@@ -26,23 +26,13 @@
 ### 📫 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/codebyella/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
+  <a href="mailto:codebyella@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
-
----
-
-### 🌟 Meus projetos
-
-#### Projeto 1
-Descrição breve do projeto. [Link para o repositório](https://github.com/seu-repositorio-projeto1)
-
-#### Projeto 2
-Descrição breve do projeto. [Link para o repositório](https://github.com/seu-repositorio-projeto2)
 
 ---
 
