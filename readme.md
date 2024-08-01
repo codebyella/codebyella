@@ -1,6 +1,3 @@
-Claro, vamos adicionar mais fatos sobre você e manter o estilo aesthetic:
-
-```markdown
 <h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
 
 <p align="center">
