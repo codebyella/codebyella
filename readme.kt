@@ -1,4 +1,3 @@
-```kt
 import Desenvolvedor from "codebyella"
 
 class SobreMim : Desenvolvedor() {
@@ -13,4 +12,3 @@ class Habilidades : Desenvolvedor() {
   var Frameworks = listOf("Gradle")
   var Ferramentas = listOf("Android Studio", "Firebase")
 }
-```
