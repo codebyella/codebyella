@@ -57,18 +57,18 @@
 
 <p align="center">
   <a href="https://github.com/codebyella">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyella&theme=dark" alt="Streak de Commits">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyella&theme=radical" alt="Streak de Commits">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/codebyella">
-    <img src="https://github-readme-stats.vercel.app/api?username=codebyella&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=dark" alt="Estatísticas do GitHub">
+    <img src="https://github-readme-stats.vercel.app/api?username=codebyella&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=radical" alt="Estatísticas do GitHub">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/codebyella">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyella&layout=compact&theme=dark" alt="Linguagens mais usadas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyella&layout=compact&theme=radical" alt="Linguagens mais usadas">
   </a>
 </p>
