@@ -1,10 +1,6 @@
 <h1 align="center">Olá, eu sou a Rafaella! 👋</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile-image" alt="Profile Picture" width="150" />
-</p>
-
-<p align="center">
   🎓 Estudante de Engenharia de Software | 📱 Desenvolvedora Android Kotlin | 🎤 Cantora Independente
 </p>
 
