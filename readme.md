@@ -1,24 +1,33 @@
-<h1 align="center">Olá, meu nome é Rafaella!</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" alt="GIF" width="500"/>
+</p>
 
-<h2>Quem sou eu</h2>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c5baa7d-4ca7-4bc4-ae07-f256390bfabc" width="700"/>
+</p>
 
-<p>
+<p align="center">
+  Meu nome é Rafaella, tenho 20 anos, sou paraense e graduanda em Engenharia de Software.<br>
   Atualmente estou aprendendo desenvolvimento Android e lógica de programação em Kotlin.<br>
   Além da programação, sou uma cantora independente e adoro expressar minha criatividade através da música.<br>
   No meu tempo livre, adoro jogar Stardew Valley com minha namorada, onde cuidamos de nossa fazendinha virtual.
 </p>
 
-<h2>O que estou aprendendo</h2>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8cee93c1-8161-4f87-9707-f1cf96a19480" width="900"/>
+</p>
 
-<p>
+<p align="center">
   Desenvolvimento Android com Kotlin.<br>
   Lógica de programação em Kotlin para Android.<br>
   Conceitos avançados de Engenharia de Software.
 </p>
 
-<h2>Tecnologias e Ferramentas</h2>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/559e08ef-f42a-4168-83bf-2abe0c09c698" width="1000"/>
+</p>
 
-<p>
+<p align="center">
   <a href="https://developer.android.com">
     <img src="https://img.shields.io/badge/Android-303F9F?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   </a>
@@ -42,31 +51,9 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <div style="flex: 1; text-align: center;">
-    <h2>Conecte-se comigo</h2>
-    <a href="https://www.linkedin.com/in/codebyella/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:codebyella@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <h2>Meus projetos</h2>
-    <div style="display: grid; gap: 20px; justify-content: center;">
-      <div style="text-align: center;">
-        <h3>POOKotlinEncapsulamento</h3>
-        <p>Estudo sobre encapsulamento seguro em Kotlin.</p>
-        <a href="https://github.com/codebyella/POOKotlinEncapsulamento">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
-
-<h2 align="center">Estatísticas e Widgets</h2>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f933e76c-bcb4-4fe7-b8ae-6ceed10df847" width="500"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/codebyella">
@@ -85,5 +72,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyella&layout=compact&theme=dark" alt="Linguagens mais usadas">
   </a>
 </p>
-
-<p align="center">Obrigado por visitar meu perfil!</p>
