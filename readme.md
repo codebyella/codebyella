@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
+<h1 align="center">OLÁ, EU SOU A RAFAELLA!</h1>
 
 <p align="center">
-  <em>🎓 Estudante de Engenharia de Software | 📱 Desenvolvedora Android | 🎤 Cantora Independente</em>
+  🎓 Estudante de Engenharia de Software | 📱 Desenvolvedora Android | 🎤 Cantora Independente
 </p>
 
 ---
@@ -28,18 +28,17 @@
 
 <h2 align="center">📂 Projetos</h2>
 <p align="center">
-  <a href="https://github.com/seu-repositorio-projeto1">🌟 <strong>Projeto 1</strong></a>: Descrição breve do projeto.<br>
-  <a href="https://github.com/seu-repositorio-projeto2">🌟 <strong>Projeto 2</strong></a>: Descrição breve do projeto.
-</p>
+  <a href="https://github.com/seu-repositorio-projeto1">🌟 <strong>POOKotlinEncapsulamento</strong></a>: Estudos sobre encapsulamento seguro em Kotlin.<br>
+  <a href="https://github.com/seu-repositorio-projeto2">🌟 <strong>KotlinHerança</strong></a>: Estudos sobre herança em Kotlin.
 
 ---
 
 <h2 align="center">📫 Contato</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/codebyella/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:codebyella@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-<p align="center"><em>Obrigado por visitar meu perfil!</em></p>
+<p align="center"><em>Obrigada por visitar meu perfil!</em></p>
