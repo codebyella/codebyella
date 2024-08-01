@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  Meu nome é Rafaella, tenho 20 anos, sou paraense e graduanda em Engenharia de Software.<br>
-  Atualmente estou aprendendo desenvolvimento Android e lógica de programação em Kotlin.<br>
-  Além da programação, sou uma cantora independente e adoro expressar minha criatividade através da música.<br>
-  No meu tempo livre, adoro jogar Stardew Valley com minha namorada, onde cuidamos de nossa fazendinha virtual.
+  ▶ Meu nome é Rafaella, tenho 20 anos, sou paraense e graduanda em Engenharia de Software.<br>
+  ▶ Atualmente estou aprendendo desenvolvimento Android e lógica de programação em Kotlin.<br>
+  ▶ Além da programação, sou uma cantora independente e adoro expressar minha criatividade através da música.<br>
+  ▶ No meu tempo livre, adoro jogar Stardew Valley com minha namorada, onde cuidamos de nossa fazendinha virtual.
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  Desenvolvimento Android com Kotlin.<br>
-  Lógica de programação em Kotlin para Android.<br>
-  Conceitos avançados de Engenharia de Software.
+  ▶ Desenvolvimento Android com Kotlin.<br>
+  ▶ Lógica de programação em Kotlin para Android.<br>
+  ▶ Conceitos avançados de Engenharia de Software.
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
   </a>
   <a href="https://firebase.google.com/">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  </a>
+  </a><br>
   <a href="https://gradle.org/">
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
   </a>
