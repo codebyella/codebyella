@@ -1,15 +1,18 @@
 ```kotlin
-import Desenvolvedor from "duartella"
+// duartella.kt
 
-class SobreMim : Desenvolvedor() {
+object SobreMim {
     val nome = "Rafaella Duarte"
+    val pronome = "ela/dela"
     val curso = "Engenharia de Software"
-    val focoDeEstudo = "Desenvolvimento Android Nativo"
+    val foco = listOf("Android Nativo", "Back-end Kotlin")
+    val stackAtual = listOf("Kotlin", "Jetpack Compose", "Ktor", "Firebase")
+    val objetivo = "Conectar ideias e transformar código em experiência"
 }
 
-class Habilidades : Desenvolvedor() {
-    val linguagens = listOf("Kotlin")
-    val bibliotecas = listOf("Jetpack Compose")
-    val frameworks = listOf("Gradle")
-    val ferramentas = listOf("Android Studio", "Firebase")
+object Habilidades {
+    val linguagens = listOf("Kotlin", "Java", "SQL", "HTML/CSS")
+    val bibliotecas = listOf("Jetpack Compose", "Room", "Coroutines", "Ktor Client")
+    val frameworks = listOf("Ktor", "Spring Boot", "Gradle")
+    val ferramentas = listOf("Android Studio", "Firebase", "IntelliJ IDEA", "Git", "Postman")
 }
