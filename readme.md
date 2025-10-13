@@ -1,18 +1,24 @@
-```kotlin
-// duartella.kt
+// RafaellaDuarte.java - Developer Profile
 
-object SobreMim {
-    val nome = "Rafaella Duarte"
-    val pronome = "ela/dela"
-    val curso = "Engenharia de Software"
-    val foco = listOf("Android Nativo", "Back-end Kotlin")
-    val stackAtual = listOf("Kotlin", "Jetpack Compose", "Ktor", "Firebase")
-    val objetivo = "Conectar ideias e transformar código em experiência"
-}
+public class RafaellaDuarte {
 
-object Habilidades {
-    val linguagens = listOf("Kotlin", "Java", "SQL", "HTML/CSS")
-    val bibliotecas = listOf("Jetpack Compose", "Room", "Coroutines", "Ktor Client")
-    val frameworks = listOf("Ktor", "Spring Boot", "Gradle")
-    val ferramentas = listOf("Android Studio", "Firebase", "IntelliJ IDEA", "Git", "Postman")
+    // Identidade
+    public static final String NOME = "Rafaella Duarte";
+    public static final String CURSO = "Engenharia de Software";
+    public static final String OBJETIVO = "Conectar ideias e transformar código em experiência";
+
+    // Stack
+    public static final List<String> STACK_PRINCIPAL = List.of(
+        "Kotlin", "Java", "Android Nativo", "Ktor", "Jetpack Compose"
+    );
+    
+    // Conhecimentos
+    public static final List<String> LINGUAGENS = List.of(
+        "Kotlin", "Java", "SQL", "HTML/CSS"
+    );
+    
+    // Interesses/Hobbies
+    public static final List<String> HOBBIES = List.of(
+        "Gamer", "Cinéfila", "Leitora", "Tarot"
+    );
 }
