@@ -1,4 +1,4 @@
-// RafaellaDuarte.java - Developer Profile
+```java
 
 public class RafaellaDuarte {
 
@@ -22,3 +22,4 @@ public class RafaellaDuarte {
         "Gamer", "Cinéfila", "Leitora", "Tarot"
     );
 }
+```
